@@ -70,27 +70,23 @@ Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, puis par
 
 > **Cas 1 — Le droit de suspendre et de supprimer**
 > Une participante rend l'appareil en fin de journée et mentionne qu'elle a eu une dispute avec son mari qu'elle ne souhaite pas partager. Elle demande si cette partie peut être supprimée. Pouvez-vous le faire ? Que lui dites-vous ?
-> *Enjeu clé : autonomie du participant sur ses enregistrements — le droit de demander la suppression de contenu sensible.*
 
 > **Cas 2 — Signalement obligatoire**
 > Lors de l'écoute d'un enregistrement pendant l'annotation, vous entendez ce qui ressemble à un enfant frappé et un adulte proférant des menaces. Que faites-vous ? Les participants avaient-ils été informés que cela pouvait arriver ?
-> *Enjeu clé : obligations de signalement et limites de la confidentialité — doit être abordé lors du consentement.*
 
 **Groupe B**
 
 > **Cas 3 — Faible littératie et consentement véritablement éclairé**
 > Vous expliquez le formulaire de consentement à une famille. Les parents parlent un peu français mais leur langue principale est le marquisien. Ils acquiescent et signent. Êtes-vous certain qu'ils ont vraiment compris ce à quoi ils ont consenti ?
-> *Enjeu clé : barrières linguistiques et culturelles comme facteur de vulnérabilité.*
 
 > **Cas 4 — Consentement communautaire vs. individuel**
 > Le chef local a accepté avec enthousiasme l'étude et encourage les familles à participer. Une famille semble en privé réticente mais ne veut pas aller à l'encontre de l'avis du chef. Continuez-vous ?
-> *Enjeu clé : différentiels de pouvoir et consentement communautaire — le consentement individuel peut être compromis par l'autorité communautaire.*
 
 ---
 
 ## JOUR 2
 
-> ### 🛠️ Activité 2 — Pratique complète en groupes ⏱️ 4h
+> ### 🛠️ Activité 2 — Pratique complète en groupes ⏱️ 3h
 
 Le Jour 2 est entièrement pratique. Les participants se divisent en deux groupes et parcourent l'ensemble du workflow de collecte de données du début à la fin, en suivant les guides pas à pas disponibles dans le dépôt.
 
@@ -105,13 +101,13 @@ Chaque groupe enregistre une conversation de 5 minutes sur un sujet assigné, pu
 
 ### 3. Gestion des données ⏱️ 30 min
 
-La gestion des données ne sera pas couverte en session magistrale. Les participants recevront un guide pas à pas couvrant les conventions de nommage des fichiers, la structure des dossiers, les métadonnées, l'anonymisation et le transfert des données. Ce guide est disponible dans le dépôt HéLiCéO.
+Les participants recevront un guide pas à pas couvrant les conventions de nommage des fichiers, la structure des dossiers, les métadonnées, l'anonymisation et le transfert des données.
 
 Le Jour 2, les participants suivront ce guide de manière autonome dans le cadre du workflow pratique complet.
 
 Une brève introduction de 10 minutes couvrira :
-- Pourquoi la gestion des données est importante et la règle d'or : nommer et organiser les fichiers immédiatement, jamais plus tard
-- Comment naviguer dans le dépôt et trouver le guide
+- Pourquoi la gestion des données est importante et la règle d'or : nommer et organiser les fichiers immédiatement
+- Comment naviguer dans le guide 
 
 #### 3.1 Organiser ses données
 - Conventions de nommage : pourquoi c'est important et les règles à suivre
@@ -153,7 +149,7 @@ Une brève introduction de 10 minutes couvrira :
 
 ---
 
-### 🎤 Prochaines étapes, clôture & Questions-Réponses ⏱️ 1h
+### 🎤 Prochaines étapes, clôture & Questions-Réponses ⏱️ 1h 
 
 ---
 
