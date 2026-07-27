@@ -64,7 +64,7 @@ Tous les matériaux, guides pas à pas et ressources sont disponibles dans ce d�
 
 > ### 🎯 Activité 1 — Cas éthiques en discussion de groupe ⏱️ 30 min
 
-Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, vote via Mentimeter, puis partage ses réflexions avec l'ensemble de la salle.
+Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, puis partage ses réflexions avec l'ensemble de la salle.
 
 **Groupe A**
 
@@ -90,7 +90,7 @@ Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, vote via
 
 ## JOUR 2
 
-### 🛠️ Activité 2 — Pratique complète en groupes ⏱️ 4h
+> ### 🛠️ Activité 2 — Pratique complète en groupes ⏱️ 4h
 
 Le Jour 2 est entièrement pratique. Les participants se divisent en deux groupes et parcourent l'ensemble du workflow de collecte de données du début à la fin, en suivant les guides pas à pas disponibles dans le dépôt.
 
