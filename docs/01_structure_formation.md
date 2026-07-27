@@ -1,5 +1,5 @@
 # Structure de la formation — Long-Form Recordings de A à Z 🎙️
-### Projet HéLiCéO — Université de la Polynésie Française
+### Projet HéLiCéO — Université de Polynésie Française
 
 ## Approche pédagogique
 
