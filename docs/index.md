@@ -1,173 +1,55 @@
+# Formation LFR — HéLiCéO 🎙️
+### Université de la Polynésie Française
+
+Bienvenue dans le dépôt de formation du projet **HéLiCéO** (Héritages Linguistiques, Cultures orales, Éducation en Océanie — CNRS, 2025–2029).
+
+Durant ces deux jours de formation, nous allons explorer ensemble l'ensemble du processus de collecte de données : des enregistrements sur le terrain jusqu'à l'analyse automatisée. Ce dépôt est votre compagnon de route — il contient toutes les guides et ressources pédagogiques dont vous aurez besoin **pendant la formation, sur le terrain, et après votre retour**. Gardez-le à portée de main !
+
 ---
-icon: lucide/rocket
+
+## 🎯 Objectif de la formation
+
+Vous préparer à conduire des enregistrements audio et vidéo naturalistes de longue durée (Long-Form Recordings) dans des communautés plurilingues et autochtones de Polynésie française, dans le respect des protocoles éthiques et des bonnes pratiques de gestion des données.
+
 ---
 
-# Get started
+## 📅 Structure de la formation
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+La formation se déroule sur **2 jours (8 heures au total)** :
 
-## Commands
+- **Jour 1** — Présentation du projet, collecte de données, éthique et consentement, introduction à la gestion des données
+- **Jour 2** — Pratique complète du workflow : enregistrement → transfert → nommage des fichiers → annotation → analyse automatisée
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
-* [`zensical build`][build] - Build your site
+→ Consulter le programme complet : [**Structure de la formation**](./01_structure_formation.md)
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+---
 
-## Examples
+## 📚 Contenu du dépôt
 
-### Admonitions
+| # | Document | Description |
+|---|----------|-------------|
+| 1 | [Structure de la formation](./01_structure_formation.md) | Programme des 2 jours, objectifs et approche pédagogique |
+| 2 | [Guide Izyrec — pas à pas](./02_guide_izyrec.md) | Comment préparer, utiliser et entretenir l'enregistreur audio Izyrec |
+| 3 | [Guide caméra vidéo — pas à pas](./03_guide_camera.md) | Comment utiliser la caméra pour les enregistrements vidéo naturalistes |
+| 4 | [FAQ — Communiquer avec les participants](./04_faq_participants.md) | Réponses aux questions fréquentes sur le consentement, l'éthique et la communication avec les familles et les communautés |
+| 5 | [Gestion des données](./05_gestion_donnees.md) | Nommage des fichiers, structure des dossiers, métadonnées et transfert |
+| 6 | [Annotation humaine](./06_annotation.md) | Introduction à l'annotation audio et vidéo et aux outils utilisés dans HéLiCéO |
+| 7 | [Analyse automatisée avec ELSI](./07_elsi.md) | Comment utiliser ELSI pour analyser vos enregistrements et interpréter les résultats |
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
+---
 
-!!! note
+## 🗂️ Comment utiliser ce dépôt
 
-    This is a **note** admonition. Use it to provide helpful information.
+- **Avant le terrain** — lisez les guides 2, 3 et 4 en priorité
+- **Pendant le terrain** — gardez les guides 2, 3, 4 et 5 accessibles sur votre téléphone ou ordinateur
+- **Après le terrain** — suivez les guides 5, 6 et 7 pour traiter et analyser vos données
 
-!!! warning
+---
 
-    This is a **warning** admonition. Be careful!
+## ❓ Questions
 
-### Details
+Si vous avez des questions sur les matériaux ou le déroulement de la formation, n'hésitez pas à contacter l'équipe pédagogique du projet HéLiCéO.
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
+---
 
-??? info "Click to expand for more info"
-
-    This content is hidden until you click to expand it.
-    Great for FAQs or long explanations.
-
-## Code Blocks
-
-> Go to [documentation](https://zensical.org/docs/authoring/code-blocks/)
-
-``` python hl_lines="2" title="Code blocks"
-def greet(name):
-    print(f"Hello, {name}!") # (1)!
-
-greet("Python")
-```
-
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
-
-    Code annotations allow to attach notes to lines of code.
-
-Code can also be highlighted inline: `#!python print("Hello, Python!")`.
-
-## Content tabs
-
-> Go to [documentation](https://zensical.org/docs/authoring/content-tabs/)
-
-=== "Python"
-
-    ``` python
-    print("Hello from Python!")
-    ```
-
-=== "Rust"
-
-    ``` rs
-    println!("Hello from Rust!");
-    ```
-
-## Diagrams
-
-> Go to [documentation](https://zensical.org/docs/authoring/diagrams/)
-
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
-
-## Footnotes
-
-> Go to [documentation](https://zensical.org/docs/authoring/footnotes/)
-
-Here's a sentence with a footnote.[^1]
-
-Hover it, to see a tooltip.
-
-[^1]: This is the footnote.
-
-
-## Formatting
-
-> Go to [documentation](https://zensical.org/docs/authoring/formatting/)
-
-- ==This was marked (highlight)==
-- ^^This was inserted (underline)^^
-- ~~This was deleted (strikethrough)~~
-- H~2~O
-- A^T^A
-- ++ctrl+alt+del++
-
-## Icons, Emojis
-
-> Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
-
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
-
-## Maths
-
-> Go to [documentation](https://zensical.org/docs/authoring/math/)
-
-$$
-\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
-$$
-
-!!! warning "Needs configuration"
-    Note that MathJax is included via a `script` tag on this page and is not
-    configured in the generated default configuration to avoid including it
-    in a pages that do not need it. See the documentation for details on how
-    to configure it on all your pages if they are more Maths-heavy than these
-    simple starter pages.
-
-<script id="MathJax-script" src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [["\\(", "\\)"]],
-      displayMath: [["\\[", "\\]"]],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      ignoreHtmlClass: ".*|",
-      processHtmlClass: "arithmatex"
-    }
-  };
-
-  document$.subscribe(() => {
-    MathJax.startup.output.clearCache()
-    MathJax.typesetClear()
-    MathJax.texReset()
-    MathJax.typesetPromise()
-  })
-</script>
-
-## Task Lists
-
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
-
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
-
-## Tooltips
-
-> Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
+*Dépôt maintenu par l'équipe HéLiCéO — LSCP, École Normale Supérieure*
