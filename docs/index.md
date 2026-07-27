@@ -48,7 +48,7 @@ La formation se déroule sur **2 jours (8 heures au total)** :
 
 ## ❓ Questions
 
-Si vous avez des questions sur les matériaux ou le déroulement de la formation, n'hésitez pas à contacter l'équipe ExELang du projet HéLiCéO.
+Si vous avez des questions sur les matériaux ou le déroulement de la formation, n'hésitez pas à contacter l'équipe ExELang & HéLiCéO.
 
 ---
 
