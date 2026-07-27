@@ -88,14 +88,14 @@ Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, puis par
 
 > ### 🛠️ Activité 2 — Pratique complète en groupes ⏱️ 3h
 
-Le Jour 2 est entièrement pratique. Les participants se divisent en deux groupes et parcourent l'ensemble du workflow de collecte de données du début à la fin, en suivant les guides pas à pas disponibles dans le dépôt.
+> Le Jour 2 est entièrement pratique. Les participants se divisent en deux groupes et parcourent l'ensemble du workflow de collecte de données du début à la fin, en suivant les guides pas à pas disponibles dans le dépôt.
 
 - **Groupe A** — travaille avec l'enregistreur audio Izyrec
 - **Groupe B** — travaille avec la caméra vidéo
 
-Chaque groupe enregistre une conversation de 5 minutes sur un sujet assigné, puis applique immédiatement l'ensemble du pipeline de gestion des données : transfert des fichiers, nommage correct, remplissage du fichier de métadonnées et analyse avec ELSI.
+> Chaque groupe enregistre une conversation de 5 minutes sur un sujet assigné, puis applique immédiatement l'ensemble du pipeline de gestion des données : transfert des fichiers, nommage correct, remplissage du fichier de métadonnées et analyse avec ELSI.
 
-À la fin de la journée, chaque participant aura complété l'ensemble du workflow au moins une fois — de la préparation de l'appareil à l'analyse automatisée — avant de partir sur le terrain.
+> À la fin de la journée, chaque participant aura complété l'ensemble du workflow au moins une fois — de la préparation de l'appareil à l'analyse automatisée — avant de partir sur le terrain.
 
 ---
 
