@@ -9,7 +9,7 @@ Durant ces deux jours de formation, nous allons explorer ensemble l'ensemble du 
 
 ## 🎯 Objectif de la formation
 
-Vous préparer à conduire des enregistrements audio et vidéo naturalistes de longue durée (Long-Form Recordings) dans des communautés plurilingues et autochtones de Polynésie française, dans le respect des protocoles éthiques et des bonnes pratiques de gestion des données.
+Vous préparer à conduire des enregistrements audio et vidéo naturalistes de longue durée (Long-Form Recordings) dans des communautés plurilingues de Polynésie française, dans le respect des protocoles éthiques et des bonnes pratiques de gestion des données.
 
 ---
 
@@ -48,8 +48,8 @@ La formation se déroule sur **2 jours (8 heures au total)** :
 
 ## ❓ Questions
 
-Si vous avez des questions sur les matériaux ou le déroulement de la formation, n'hésitez pas à contacter l'équipe pédagogique du projet HéLiCéO.
+Si vous avez des questions sur les matériaux ou le déroulement de la formation, n'hésitez pas à contacter l'équipe ExELang du projet HéLiCéO.
 
 ---
 
-*Dépôt maintenu par l'équipe HéLiCéO — LSCP, École Normale Supérieure*
+*Dépôt maintenu par l'équipe ExELang & HéLiCéO — LSCP, École Normale Supérieure*
