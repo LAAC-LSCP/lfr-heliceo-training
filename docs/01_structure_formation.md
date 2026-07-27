@@ -17,25 +17,20 @@ Tous les matériaux, guides pas à pas et ressources sont disponibles dans ce d�
 
 ### 1. Introduction et collecte de données ⏱️ 2h
 
-#### 1.1 Présentation du projet
-- L'équipe
+#### 1.1 Présentation du projet 
 - Bref historique du projet ExELang et financement ERC
-- Le projet HéLiCéO
-- Questions de recherche : HéLiCéO & WP4
-- Objectifs de la formation, agenda & lien vers les matériaux
+- Le projet HéLiCéO : Questions de recherche & WP4
+- Objectifs de la formation & agenda
 
 #### 1.2 Pourquoi les enregistrements de longue durée ?
 - Qu'est-ce que les LFR et comment fonctionnent-ils ?
-- Exemples en lien avec le contexte HéLiCéO
 - Vue d'ensemble du processus (de la préparation de l'appareil à l'annotation)
-- Les différents dispositifs d'enregistrement audio
-- Les différentes caméras
-- Exemples d'enregistrements audio et vidéo
+- Les différents dispositifs d'enregistrement audio & caméras
 
-#### 1.3 Collecte de données sur le terrain (tutoriel Izyrec et caméra)
+#### 1.3 Collecte de données sur le terrain (Izyrec et caméras vidéo)
 - Introduction générale aux appareils
 - L'enregistreur audio Izyrec : guide pas à pas
-- La caméra vidéo : guide pas à pas
+- La caméras vidéo : guide pas à pas
 - Types de sons et vidéos capturables sur le terrain : exemples HéLiCéO
 - Logistique :
   - Comment transporter et remettre le matériel aux participants ?
@@ -56,19 +51,18 @@ Tous les matériaux, guides pas à pas et ressources sont disponibles dans ce d�
 - Les formulaires de consentement : ce qu'ils couvrent et comment les communiquer
 - Le droit de se retirer : avant, pendant et après l'enregistrement
 - RGPD et protection des données
-- Cadre légal spécifique à l'équipe de Jacques : Îles de la Société, Marquises, Rapa Iti, Tuamotu
 
 #### 2.2 Communiquer avec les participants
-- Quoi communiquer : présentation du projet, instructions d'enregistrement, utilisation des données, droits, procédures d'escalade
+- Quoi communiquer : présentation du projet, instructions d'enregistrement, utilisation des données et droits
 - Consentement communautaire vs. individuel — travailler d'abord avec les leaders locaux
 - Ce qu'il ne faut PAS enregistrer : moments privés, limites définies par les participants
 - Réciprocité : qu'est-ce que la communauté reçoit en retour ?
-- Choisir le bon format : oral, écrit, illustré, vidéo WhatsApp
+- Choisir le bon format : oral, écrit, illustré, vidéo ...
 - Pendant la collecte : rester en contact avec les familles et gérer les situations imprévues
 
 ---
 
-### 🎯 Activité 1 — Cas éthiques en discussion de groupe ⏱️ 30 min
+> ### 🎯 Activité 1 — Cas éthiques en discussion de groupe ⏱️ 30 min
 
 Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, vote via Mentimeter, puis partage ses réflexions avec l'ensemble de la salle.
 
