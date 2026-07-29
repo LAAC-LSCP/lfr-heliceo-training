@@ -14,3 +14,35 @@ Plus précisément, le package Python ChildProject pour la gestion des données 
 <figure markdown>
   <figcaption>Figure 1 : L'écosystème ELSI</figcaption>
 </figure>
+
+
+
+## Prérequis et configuration
+
+### Dépôt des données sur des archives scientifiques
+
+ELSI ne gère pas les autorisations légales ou éthiques liées à la réutilisation des données. Vous devez donc déposer votre jeu de données dans l'une des archives scientifiques suivantes :
+
+1. [HomeBank](https://homebank.talkbank.org/)
+2. [Databrary](https://databrary.org/)
+3. [The Language Archive](https://archive.mpi.nl/)
+
+Ces trois archives prennent en charge les enregistrements de longue durée et vous permettent de contrôler qui peut légalement accéder à vos données. Les jeux de données non déposés dans une archive seront supprimés d'ELSI. Lors du dépôt, vous devez ajouter notre laboratoire en tant que collaborateur.
+
+### Compte et accès
+
+Nous recommandons d'utiliser le navigateur **Chrome** pour accéder à ELSI.
+
+Si c'est votre première utilisation, vous devrez créer un compte. Sinon, connectez-vous avec vos identifiants : https://elsi-lscp.ddns.net/identify/login
+
+Un administrateur devra approuver votre compte lors de la première connexion, ce qui peut prendre **24 à 48 heures**. En cas de délai, contactez Kaveri à l'adresse suivante : ksheth2019@gmail.com
+
+Une fois votre compte approuvé, rendez-vous ici : https://elsi-lscp.ddns.net/maildev/#/email/abTJlKrh et utilisez le mot de passe provisoire pour vous connecter et le modifier.
+
+Pour accéder au site, cliquez sur ce lien : https://elsi-lscp.ddns.net/identify/login
+
+Voici à quoi ressemble la page d'accueil (Figure 2) :
+
+![Figure 2 : Page d'accueil d'ELSI](./img/Figure2_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 2 : Page
