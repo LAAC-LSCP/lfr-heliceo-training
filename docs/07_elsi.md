@@ -17,7 +17,10 @@ Plus précisément, le package Python ChildProject pour la gestion des données 
 
 
 
-## Prérequis et configuration
+
+
+
+### Prérequis et configuration
 
 ### Dépôt des données sur des archives scientifiques
 
@@ -46,3 +49,11 @@ Voici à quoi ressemble la page d'accueil (Figure 2) :
 ![Figure 2 : Page d'accueil d'ELSI](./img/Figure2_ELSIDoc.png)
 <figure markdown>
   <figcaption>Figure 2 : Page
+
+
+  Une fois connecté, l'écran devrait ressembler à la Figure 3 :
+
+![Figure 3 : Premier écran après connexion à ELSI](./img/Figure3_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 3 : Premier écran après connexion à ELSI</figcaption>
+</figure>
