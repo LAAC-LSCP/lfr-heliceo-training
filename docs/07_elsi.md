@@ -19,8 +19,7 @@ Plus précisément, le package Python ChildProject pour la gestion des données 
 
 
 
-
-### Prérequis et configuration
+# Prérequis et configuration
 
 ### Dépôt des données sur des archives scientifiques
 
