@@ -57,3 +57,42 @@ Voici à quoi ressemble la page d'accueil (Figure 2) :
 <figure markdown>
   <figcaption>Figure 3 : Premier écran après connexion à ELSI</figcaption>
 </figure>
+
+
+# Ajouter un jeu de données
+
+Dans le coin supérieur droit, vous verrez ACCUEIL, JEUX DE DONNÉES, SPONSORS. Pour commencer à ajouter un jeu de données, cliquez sur le bouton **JEUX DE DONNÉES**. Votre écran devrait maintenant ressembler à ceci (Figure 4) :
+
+![Figure 4: Dataset Homepage](img/Figure4_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 4 : Page d'accueil du jeu de données</figcaption>
+</figure>
+
+---
+---
+### Créer un nouveau jeu de données
+
+Pour demander la création d’un nouveau jeu de données (qui devra être approuvé par un administrateur dans un délai de 24 à 48 heures), cliquez sur le bouton vert **+ Nouveau jeu de données**. L’écran devrait alors ressembler à la Figure 5.
+
+![Figure 5: To add a new dataset](img/Figure5_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 5 : Pour ajouter un nouveau jeu de données</figcaption>
+</figure>
+
+Remplissez les informations (c’est-à-dire : **Nom du jeu de données**, **Utilisateur(s)** et **Taille maximale**). Une fois cela fait, l’administrateur l’approuvera (ou vous contactera en cas de problème dans un délai de 24 à 48 heures). Une fois créé, cela devrait ressembler à la Figure 6.
+
+![Figure 6: Creation of an empty new dataset](img/Figure6_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 6 : Création d'un nouveau jeu de données vide</figcaption>
+</figure>
+
+---
+---
+### Ajouter de nouveaux médias au jeu de données
+
+Une fois votre jeu de données approuvé, vous pouvez télécharger (individuellement ou par lots) des fichiers audio volumineux (**mp3, wav**) avec une taille maximale de **2 Go par fichier**. Pour ce faire, cliquez sur le bouton **Nouveau média** pour ajouter des fichiers audio (Figure 7).
+
+![Figure 7: Adding new media](img/Figure7_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 7 : Ajout de nouveaux médias</figcaption>
+</figure>
