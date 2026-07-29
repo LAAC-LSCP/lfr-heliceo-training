@@ -96,3 +96,38 @@ Une fois votre jeu de données approuvé, vous pouvez télécharger (individuell
 <figure markdown>
   <figcaption>Figure 7 : Ajout de nouveaux médias</figcaption>
 </figure>
+
+---
+---
+
+# Exécuter des analyses
+
+Une fois tous vos fichiers téléchargés, vous pouvez exécuter des analyses. Cliquez sur le bouton **Analyser** à côté du bouton **Nouveau média**. Votre écran ressemblera alors à la Figure 8.
+
+![Figure 8: Analyse your audio](img/Figure8_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 8 : Analyser votre audio</figcaption>
+</figure>
+
+Vous pouvez choisir quel modèle utiliser pour analyser les données (par exemple : VTC, VTC2, ALICE) (Figure 9).
+
+![Figure 9: Choosing which model to run](img/Figure9_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 9 : Choix du modèle à exécuter</figcaption>
+</figure>
+
+Une fois l'analyse exécutée, les annotations s'afficheront dans la case étiquetée **« annotations »** avec le modèle que vous avez choisi, et vous pourrez télécharger les fichiers CSV (Figure 10).
+
+![Figure 10: Annotations appear after model is run](img/Figure10_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 10 : Affichage des annotations après exécution du modèle</figcaption>
+</figure>
+
+### Générer des statistiques
+
+Vous pouvez également générer des statistiques descriptives (Figure 11) en cliquant sur les **3 boutons** à côté du bouton vert **Analyser**. Vous pouvez les générer avec le pipeline **aclew** ou **LENA**. Ensuite, choisissez quel ensemble d'annotations vous utilisez pour **VTC**, **ALICE** ou **VCM**, puis vous pouvez générer les statistiques par **nom de fichier**, **ID enfant** ou **ID de session**. Une fois cela fait, un fichier CSV sera généré et téléchargé automatiquement sur votre ordinateur.
+
+![Figure 11: Running descriptive statistics](img/Figure11_ELSIDoc.png)
+<figure markdown>
+  <figcaption>Figure 11 : Exécution des statistiques descriptives</figcaption>
+</figure>
