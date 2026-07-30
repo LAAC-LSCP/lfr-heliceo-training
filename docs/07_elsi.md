@@ -115,7 +115,8 @@ Vous pouvez choisir quel modèle utiliser pour analyser les données (par exempl
 <figure markdown>
   <figcaption>Figure 9 : Choix du modèle à exécuter</figcaption>
 </figure>
-
+<br>
+<br>
 Une fois l'analyse exécutée, les annotations s'afficheront dans la case étiquetée **« annotations »** avec le modèle que vous avez choisi, et vous pourrez télécharger les fichiers CSV (Figure 10).
 
 ![Figure 10: Annotations appear after model is run](img/Figure10_ELSIDoc.png)
