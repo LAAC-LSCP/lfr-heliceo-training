@@ -48,8 +48,8 @@ Voici à quoi ressemble la page d'accueil (Figure 2) :
 
 ![Figure 2 : Page d'accueil d'ELSI](./img/Figure2_ELSIDoc.png)
 <figure markdown>
-  <figcaption>Figure 2 : Page
-
+  <figcaption>Figure 2 : Page d'accueil d'ELSI</figcaption>
+</figure>
 
 
   Une fois connecté, l'écran devrait ressembler à la Figure 3 :
