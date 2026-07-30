@@ -51,7 +51,7 @@ Voici à quoi ressemble la page d'accueil (Figure 2) :
   <figcaption>Figure 2 : Page d'accueil d'ELSI</figcaption>
 </figure>
 
-
+<br>
   Une fois connecté, l'écran devrait ressembler à la Figure 3 :
 
 ![Figure 3 : Premier écran après connexion à ELSI](./img/Figure3_ELSIDoc.png)
@@ -70,6 +70,7 @@ Dans le coin supérieur droit, vous verrez ACCUEIL, JEUX DE DONNÉES, SPONSORS. 
   <figcaption>Figure 4 : Page d'accueil du jeu de données</figcaption>
 </figure>
 
+<br>
 
 ### Créer un nouveau jeu de données
 
