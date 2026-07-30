@@ -58,4 +58,4 @@ N'hésitez pas à contacter directement le chercheur responsable de votre suivi.
 
 ---
 
-*Document élaboré dans le cadre du projet HéLiCéO — LSCP, ENS Paris & Université de la Polynésie Française*
+*Document élaboré par l'équipe ExELang & HéLiCéO — LSCP, École Normale Supérieure*
