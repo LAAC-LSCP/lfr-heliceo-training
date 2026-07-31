@@ -1,4 +1,4 @@
-# FAQ — Communiquer avec les participants 🎙️🎥
+# FAQ — Communiquer avec les participants ❓
 
 Cette section rassemble les questions les plus fréquemment posées par les familles et les participants lors des enregistrements de longue durée. Elle est conçue pour vous aider à répondre avec clarté et confiance sur le terrain, dans le respect des protocoles éthiques du projet HéLiCéO.
 
