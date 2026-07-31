@@ -1,4 +1,4 @@
-# Guide d'utilisation — Enregistreur iZYREC 🎙️
+# Guide d'utilisation — Enregistreur iZYREC 🎤
 
 Ce guide vous accompagne pas à pas dans l'utilisation de l'enregistreur audio iZYREC dans le cadre du projet HéLiCéO. Lisez-le attentivement avant votre première journée d'enregistrement.
 
