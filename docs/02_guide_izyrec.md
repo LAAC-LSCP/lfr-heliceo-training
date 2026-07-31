@@ -59,9 +59,9 @@ Vous devriez avoir reçu :
 
 | Étape | Instruction | Image |
 |-------|-------------|-------|
-| **1. Démarrer l'enregistrement** | Allumez l'enregistreur en basculant le bouton pour faire apparaître la partie rouge en entier. Une lumière rouge constante s'allumera au milieu, indiquant que l'enregistrement est en cours. | ![Démarrer l'enregistrement](./img/izyrec/1a_Izyrec.png) ![Bouton position ON](./img/izyrec/1b_Izyrec.png) |
-| **2. Arrêter l'enregistrement** | Pour l'éteindre, basculez le même bouton en position médiane. | ![Arrêter l'enregistrement](./img/izyrec/2_Izyrec.png) |
-| **3. Mode contrôle application** | Pour passer en mode de contrôle par l'application iZYREC, basculez le bouton de l'autre côté — une lumière rouge apparaîtra. | ![Mode application](./img/izyrec/3_Izyrec.png) |
+| **1. Démarrer l'enregistrement** | Allumez l'enregistreur en basculant le bouton pour faire apparaître la partie rouge en entier. Une lumière rouge constante s'allumera au milieu, indiquant que l'enregistrement est en cours. | ![Démarrer l'enregistrement](./img/izyrec/1a_Izyrec.png) ![Bouton position ON](./img/1b_Izyrec.png) |
+| **2. Arrêter l'enregistrement** | Pour l'éteindre, basculez le même bouton en position médiane. | ![Arrêter l'enregistrement](./img/2_Izyrec.png) |
+| **3. Mode contrôle application** | Pour passer en mode de contrôle par l'application iZYREC, basculez le bouton de l'autre côté — une lumière rouge apparaîtra. | ![Mode application](./img/3_Izyrec.png) |
 
 ---
 
