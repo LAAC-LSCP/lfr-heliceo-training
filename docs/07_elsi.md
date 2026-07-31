@@ -1,4 +1,4 @@
-# Documentation ELSI — ExELang Legacy Support Interface
+# ELSI — ExELang Legacy Support Interface 💻
 
 Bienvenue dans la documentation d'ELSI (ExELang Legacy Support Interface). L'objectif de cette documentation est de présenter les fonctionnalités de l'outil et d'expliquer comment l'utiliser.
 
