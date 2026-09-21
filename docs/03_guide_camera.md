@@ -36,6 +36,7 @@ L'indicateur de batterie s'affiche en haut de l'écran. Vérifiez qu'elle est su
 ## ⚙️ Paramètres à vérifier avant chaque utilisation
 
 La GoPro Hero (2024) dispose d'un tableau de bord en **trois volets** accessibles en glissant vers le bas depuis l'écran allumé, puis vers la droite ou vers la gauche.
+Nous recommandons de vérifier en particulier les paramètres de date et d'heure avant chaque enregistrement, par précaution. C'est une étape importante pour le transfert des données en fin de journée d'enregistrement 
 
 > 💡 Les fonctionnalités sont **activées** lorsque leurs icônes deviennent **bleues**.
 
@@ -51,7 +52,7 @@ La GoPro Hero (2024) dispose d'un tableau de bord en **trois volets** accessible
 
 **Transfert des données :** il sera toujours **manuel**, à l'aide du câble USB-C spécifique fourni avec la GoPro. Ce câble permet de transférer les vidéos de la caméra vers votre ordinateur.
 
-> Si le câble est perdu, utilisez un lecteur de carte micro SD pour effectuer le transfert. (cf. guide *Transfert de données*)
+> Si le câble est perdu, utilisez un lecteur de carte micro SD pour effectuer le transfert. (cf. guide *Gestion de données*)
 
 ---
 
