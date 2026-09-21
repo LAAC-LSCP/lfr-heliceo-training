@@ -54,8 +54,6 @@ Nous recommandons de vérifier en particulier les paramètres de date et d'heure
 
 > Si le câble est perdu, utilisez un lecteur de carte micro SD pour effectuer le transfert. (cf. guide [Gestion de données](https://laac-lscp.github.io/lfr-heliceo-training/05_gestion_donnees/))
 
- [HomeBank](https://homebank.talkbank.org/)
-
 ---
 
 ### Volet 2 — Contrôle rapide
