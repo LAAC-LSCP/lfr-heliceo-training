@@ -132,11 +132,9 @@ ilesds_data_heliceo/ └── ilesds_XXX_data_heliceo/ 	├── video/ 	└�
 
 Toujours utiliser le même nombre de chiffres pour numéroter une série de fichiers, en ajoutant des zéros devant les petits numéros.
 
-| Sans zero padding | Avec zero padding |
-|-------------------|-------------------|
-| 1, 10, 11, 2, 3... → l'ordinateur classe mal (le 10 se retrouve avant le 2) | 01, 02, 03... 10, 11 → l'ordre est correct |
-
-> **Règle :** le nombre de chiffres dépend du nombre max de fichiers possible (99 fichiers → 2 chiffres, 9999 → 4 chiffres).
+- Sans zéro : 1, 10, 11, 2, 3... → l'ordinateur classe mal (le 10 se retrouve avant le 2)
+- Avec zéro : 01, 02, 03... 10, 11 → l'ordre est correct
+- Règle : le nombre de chiffres dépend du nombre max de fichiers possible (99 fichiers → 2 chiffres, 9999 → 4 chiffres).
 
 ---
 
