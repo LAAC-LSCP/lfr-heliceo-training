@@ -6,7 +6,7 @@ Anonymisation, organisation, transfert et dépôt des enregistrements audio et v
 
 ## 1. Anonymisation et métadonnées
 
-### 1.2 Attribution d'un ID anonymisé au participant
+### 1.1 Attribution d'un ID anonymisé au participant
 
 Avant toute collecte de données sur le terrain, chaque participant doit recevoir un identifiant anonymisé unique. Cette étape est un préalable indispensable à toute la suite du protocole : cet identifiant (noté **XXX** dans ce document, code d'anonymisation à définir par l'équipe) est utilisé dans tous les noms de dossiers et de fichiers présentés dans ce guide.
 
@@ -14,7 +14,7 @@ Un identifiant unique est attribué à chaque enfant participant, par exemple vi
 
 ---
 
-### 2.1 Fichier des enregistrements : `recordings.csv`
+### 1.2 Fichier des enregistrements : `recordings.csv`
 
 Ce fichier constitue le registre de tous les enregistrements du dataset, selon le standard ChildProject utilisé par le laboratoire. Il est indispensable au bon fonctionnement du pipeline de traitement : sans lui, les enregistrements ne peuvent pas être validés ni exploités par les outils d'analyse. Le but est de faire correspondre l'anonymisation avec l'enregistrement.
 
@@ -35,7 +35,7 @@ Le jeune chercheur renseigne une ligne par fichier transféré (voir partie 3), 
 
 ---
 
-### 2.1 Fichier métadonnées : `children.csv`
+### 1.3 Fichier métadonnées : `children.csv`
 
 Ce fichier constitue le registre des métadonnées démographiques et contextuelles par participant, également selon le standard ChildProject. **Une seule ligne par enfant** (et non par enregistrement), à la différence de `recordings.csv`.
 
@@ -63,8 +63,7 @@ Champs proposés, basés sur le standard ChildProject (seuls `experiment`, `chil
 ---
 
 ## 2. Organiser ses données
-### Étape 1 : Création du dossier source et ses sous-dossiers par participant
-####1.Créer le dossier source
+### 2.1 Créer le dossier source
 
 Sur votre ordinateur, créer un dossier dont le nom suit le format suivant (toujours tout en minuscule) :
  [code_lieu]_data_heliceo
@@ -74,7 +73,7 @@ Ce dossier et son contenu seront copiés sur disque dur externe ou clé USB afin
 
 ---
 
-#### 2.Créer un dossier par participant
+### 2.2 Créer un dossier par participant
 
 Dans le dossier source, créer un dossier par participant, au format :
  [code_lieu]_[XXX]_data_heliceo
@@ -85,10 +84,7 @@ Dans le dossier source, créer un dossier par participant, au format :
 ### 2.3 Créer les sous-dossiers vidéo et audio
 Dans chaque dossier participant, créer deux sous-dossiers : `video` et `audio`.
 
-ilesds_data_heliceo/
-└── ilesds_XXX_data_heliceo/
-    ├── video/
-    └── audio/
+ilesds_data_heliceo/ └── ilesds_XXX_data_heliceo/ 	├── video/ 	└── audio/
 
 ---
 
@@ -100,10 +96,14 @@ ilesds_data_heliceo/
 
 **Procédure :**
 
-1. À la fin de la journée d'enregistrement, transférer l'ensemble des fichiers de la GoPro dans le dossier `video` du participant : `ilesds_XXX_data_heliceo/video/`
-2. Vérifier que le dossier contient bien l'ensemble des chapitres attendus pour la journée (environ 13, à ajuster selon l'heure exacte de fin d'enregistrement).
-3. Copier la totalité des enregistrements dans le dossier `video`.
-4. Renommer **uniquement le premier fichier** de la série, au format :
+À la fin de la journée d'enregistrement, transférer l'ensemble des fichiers de la GoPro dans le dossier video du participant : ilesds_XXX_data_heliceo/video/
+Vérifier que le dossier contient bien l'ensemble des chapitres attendus pour la journée (environ 13, à ajuster selon l'heure exacte de fin d'enregistrement).
+Copier la totalité des enregistrements dans le dossier video.
+Renommer uniquement le premier chapitre de la journée (celui avec le numéro de chapitre 01), au format : [code_lieu]_[XXX]_[date:AAMMJJ]_[heure:HMS]_video_01.mp4
+Exemple : ilesds_XXX_260916_143809_video_01
+Ce premier fichier renommé sert de repère pour identifier l'origine de toute la série. Le renommage des fichiers restants (chapitres 02 à ~13) sera effectué en post-traitement (pas à la charge des stagiaires sur le terrain).
+Après transfert : supprimez tous les enregistrements de l'appareil.
+
  
 
 
