@@ -57,7 +57,7 @@ Vous devriez avoir reçu :
 - **Vous gardez le contrôle** : Vous gardez le contrôle :
   * Si vous souhaitez arrêter l'enregistrement ou demander que des parties soient supprimées, vous êtes entièrement dans votre droit. Nous n'aurons aucun problème à supprimer une ou plusieurs sections sur demande
   * Pour arrêter l'enregistrement : basculez le bouton en position médiane.
--Informez les autres si nécessaire :
+- **Informez les autres si nécessaire** :
   * Si vous rencontrez des personnes extérieures à votre foyer qui parlent près de votre bébé, informez-les que votre enfant porte un enregistreur.
   * Fournissez-leur nos coordonnées s'ils ont des questions sur l'enregistrement ou souhaitent demander la suppression de leurs contributions.
 
