@@ -52,13 +52,14 @@ Vous devriez avoir reçu :
 
 - **Comportez-vous normalement** — Il est crucial pour nous d'avoir une idée de l'état naturel des choses. Nous n'écouterons pas le contenu de vos conversations.
 - **Vous pouvez éteindre l'enregistreur** pendant les siestes et les bains. Pour les repas, il est judicieux d'ajouter un bavoir pour protéger l'enregistreur de l'humidité.
-- **Pour les repas** — ajoutez un bavoir pour protéger l'enregistreur de l'humidité.
+  * Pour les repas — ajoutez un bavoir pour protéger l'enregistreur de l'humidité.
+  * Pendant les siestes et les bains. 
 - **Vous gardez le contrôle** : Vous gardez le contrôle :
- * Si vous souhaitez arrêter l'enregistrement ou demander que des parties soient supprimées, vous êtes entièrement dans votre droit. Nous n'aurons aucun problème à supprimer une ou plusieurs sections sur demande
-    * Pour arrêter l'enregistrement : basculez le bouton en position médiane.
+  * Si vous souhaitez arrêter l'enregistrement ou demander que des parties soient supprimées, vous êtes entièrement dans votre droit. Nous n'aurons aucun problème à supprimer une ou plusieurs sections sur demande
+  * Pour arrêter l'enregistrement : basculez le bouton en position médiane.
 -Informez les autres si nécessaire :
- * Si vous rencontrez des personnes extérieures à votre foyer qui parlent près de votre bébé, informez-les que votre enfant porte un enregistreur.
- * Fournissez-leur nos coordonnées s'ils ont des questions sur l'enregistrement ou souhaitent demander la suppression de leurs contributions.
+  * Si vous rencontrez des personnes extérieures à votre foyer qui parlent près de votre bébé, informez-les que votre enfant porte un enregistreur.
+  * Fournissez-leur nos coordonnées s'ils ont des questions sur l'enregistrement ou souhaitent demander la suppression de leurs contributions.
 
 ---
 
