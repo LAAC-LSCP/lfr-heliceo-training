@@ -38,8 +38,8 @@ Vous devriez avoir reçu :
     -Les enregistrements peuvent s'étendre sur plusieurs jours, c'est-à-dire que le bébé peut être enregistré le vendredi, et le bébé et les frères et sœurs plus âgés le samedi.
 - **Environnement plus simple** : Il est plus facile d'analyser l'environnement linguistique de votre enfant si seuls votre famille ou des amis proches sont présents.
 - **Évitez ces jours**:
-    -Les enregistrements ne doivent pas être réalisés en crèche, à l'école maternelle ou à l'école, en raison de la difficulté d'obtenir le consentement des autres personnes présentes.
-    -Les jours où d'autres personnes seront présentes pendant de longues périodes.
+  -Les enregistrements ne doivent pas être réalisés en crèche, à l'école maternelle ou à l'école, en raison de la difficulté d'obtenir le consentement des autres personnes présentes.
+  -Les jours où d'autres personnes seront présentes pendant de longues périodes.
 
 
 > **Durée idéale : ** Commencez l'enregistrement dès le moment où votre enfant/vos enfants se réveillent jusqu'au coucher le soir
