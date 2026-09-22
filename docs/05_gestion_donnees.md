@@ -1,4 +1,4 @@
-# Protocole de gestion des données de terrain — HéLiCÉO 💻
+# Protocole de gestion des données de terrain 
 
 Anonymisation, organisation, transfert et dépôt des enregistrements audio et vidéo
 
