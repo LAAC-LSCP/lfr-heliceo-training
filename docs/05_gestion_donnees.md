@@ -96,13 +96,66 @@ ilesds_data_heliceo/ └── ilesds_XXX_data_heliceo/ 	├── video/ 	└�
 
 **Procédure :**
 
-À la fin de la journée d'enregistrement, transférer l'ensemble des fichiers de la GoPro dans le dossier video du participant : ilesds_XXX_data_heliceo/video/
-Vérifier que le dossier contient bien l'ensemble des chapitres attendus pour la journée (environ 13, à ajuster selon l'heure exacte de fin d'enregistrement).
-Copier la totalité des enregistrements dans le dossier video.
-Renommer uniquement le premier chapitre de la journée (celui avec le numéro de chapitre 01), au format : [code_lieu]_[XXX]_[date:AAMMJJ]_[heure:HMS]_video_01.mp4
-Exemple : ilesds_XXX_260916_143809_video_01
-Ce premier fichier renommé sert de repère pour identifier l'origine de toute la série. Le renommage des fichiers restants (chapitres 02 à ~13) sera effectué en post-traitement (pas à la charge des stagiaires sur le terrain).
-Après transfert : supprimez tous les enregistrements de l'appareil.
+- À la fin de la journée d'enregistrement, transférer l'ensemble des fichiers de la GoPro dans le dossier video du participant : ilesds_XXX_data_heliceo/video/
+- Vérifier que le dossier contient bien l'ensemble des chapitres attendus pour la journée (environ 13, à ajuster selon l'heure exacte de fin d'enregistrement).
+- Copier la totalité des enregistrements dans le dossier video.
+- Renommer uniquement le premier chapitre de la journée (celui avec le numéro de chapitre 01), au format : [code_lieu]_[XXX]_[date:AAMMJJ]_[heure:HMS]_video_01.mp4
+- > Ex. : `ilesds_XXX_260916_143809_video_01`
+- Ce premier fichier renommé sert de repère pour identifier l'origine de toute la série. Le renommage des fichiers restants (chapitres 02 à ~13) sera effectué en post-traitement (pas à la charge des stagiaires sur le terrain).
+- Après transfert : **supprimez tous les enregistrements de l'appareil.**
+
+---
+
+### 3.2 Transfert depuis l'IzyRec
+
+> **Rappel matériel :** l'IzyRec enregistre par blocs de 4h. À chaque bloc de 4h, l'appareil crée automatiquement un nouveau fichier.
+
+**Procédure :**
+
+1. Une fois tous les enregistrements de la journée terminés, connecter l'IzyRec à l'ordinateur.
+2. Ouvrir le dossier créé par IzyRec, nommé d'après la date d'enregistrement du jour. Il contient un fichier `.wav` par bloc de 4h enregistré.
+3. Copier chaque fichier `.wav` dans le dossier `audio` du participant : `ilesds_XXX_data_heliceo/audio/`
+4. Renommer chaque fichier selon le format : [code_lieu][XXX][AAMMJJ]_[HMS]audio[transfert]
+
+
+> Ex. : `ilesds_XXX_260915_101350_audio_01.wav` (premier bloc de 4h de la journée), `ilesds_XXX_260915_141350_audio_02.wav` (deuxième bloc), etc.
+
+5. Le numéro de transfert correspond à l'ordre de transfert des fichiers de la journée (1er fichier de 4h, 2ᵉ fichier de 4h, etc.). Respectez le nombre de zéros avant le chiffre du transfert (principe du zero-padding, expliqué ci-dessous).
+6. **Différence avec la vidéo à noter :** contrairement à la GoPro (un seul enregistrement continu par jour, renommage du 1er chapitre seulement, le reste en post-traitement), ici chaque fichier audio est renommé directement sur le terrain (max 6 fichiers/jour, donc gérable manuellement).
+7. Après transfert : **supprimez tous les enregistrements de l'appareil.**
+
+> 💡 **Astuce :** le nom généré automatiquement par IzyRec contient un timestamp Unix (epoch). En le copiant sur [epochconverter.com](https://epochconverter.com), vous obtenez la date et l'heure exactes de l'enregistrement — utile pour vérifier la date/session avant de renommer.
+
+---
+
+### 3.3 Bon à savoir : pourquoi des zéros devant le chiffre ? (zero padding)
+
+Toujours utiliser le même nombre de chiffres pour numéroter une série de fichiers, en ajoutant des zéros devant les petits numéros.
+
+| Sans zero padding | Avec zero padding |
+|-------------------|-------------------|
+| 1, 10, 11, 2, 3... → l'ordinateur classe mal (le 10 se retrouve avant le 2) | 01, 02, 03... 10, 11 → l'ordre est correct |
+
+> **Règle :** le nombre de chiffres dépend du nombre max de fichiers possible (99 fichiers → 2 chiffres, 9999 → 4 chiffres).
+
+---
+
+> ⚠️ **Règles d'or**
+>
+> - Toujours nommer vos fichiers **au moment du transfert** vers votre disque, ne jamais le reporter à plus tard.
+> - Toujours **dire à haute voix l'heure de début** à chaque enregistrement audio et vidéo.
+
+---
+
+## 4. Dépôt des données
+
+### 4.1 Serveur : LAAC Uploader
+
+Outil simple d'utilisation — chaque personne dispose d'un identifiant et d'un mot de passe.
+
+---
+
+*Document élaboré par l'équipe ExELang & HéLiCéO — LSCP, École Normale Supérieure*
 
  
 
