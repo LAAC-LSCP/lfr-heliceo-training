@@ -30,19 +30,9 @@ La formation se déroule sur **2 jours (8 heures au total)** :
 |---|----------|-------------|
 | 1 | [Structure de la formation](./01_structure_formation.md) | Programme des 2 jours, objectifs et approche pédagogique |
 | 2 | [Guide Izyrec — pas à pas](./02_guide_izyrec.md) | Comment préparer, utiliser et entretenir l'enregistreur audio Izyrec |
-| 3 | [Guide caméra vidéo — pas à pas](./03_guide_camera.md) | Comment utiliser la caméra pour les enregistrements vidéo naturalistes |
-| 4 | [FAQ — Communiquer avec les participants](./04_faq_participants.md) | Réponses aux questions fréquentes sur le consentement, l'éthique et la communication avec les familles et les communautés |
-| 5 | [Gestion des données](./05_gestion_donnees.md) | Nommage des fichiers, structure des dossiers, métadonnées et transfert |
-| 6 | [Annotation humaine](./06_annotation.md) | Introduction à l'annotation audio et vidéo et aux outils utilisés dans HéLiCéO |
-| 7 | [Analyse automatisée avec ELSI](./07_elsi.md) | Comment utiliser ELSI pour analyser vos enregistrements et interpréter les résultats |
-
----
-
-## 🗂️ Comment utiliser ce dépôt
-
-- **Avant le terrain** — lisez les guides 2, 3 et 4 en priorité
-- **Pendant le terrain** — gardez les guides 2, 3, 4 et 5 accessibles sur votre téléphone ou ordinateur
-- **Après le terrain** — suivez les guides 5, 6 et 7 pour traiter et analyser vos données
+| 3 | [FAQ — Communiquer avec les participants](./04_faq_participants.md) | Réponses aux questions fréquentes sur le consentement, l'éthique et la communication avec les familles et les communautés |
+| 4 | [Gestion des données](./05_gestion_donnees.md) | Nommage des fichiers, structure des dossiers, métadonnées et transfert |
+| 5 | [Analyse automatisée avec ELSI](./07_elsi.md) | Comment utiliser ELSI pour analyser vos enregistrements et interpréter les résultats |
 
 ---
 
