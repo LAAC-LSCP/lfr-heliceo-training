@@ -64,9 +64,6 @@ Tous les matériaux, guides pas à pas et ressources sont disponibles dans ce d�
 
 > ### 🎯 Activité 1 — Cas éthiques en discussion de groupe ⏱️ 30 min
 
-Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, puis partage ses réflexions avec l'ensemble de la salle.
-
-**Groupe A**
 
 > **Cas 1 — Le droit de suspendre et de supprimer**
 > Une participante rend l'appareil en fin de journée et mentionne qu'elle a eu une dispute avec son mari qu'elle ne souhaite pas partager. Elle demande si cette partie peut être supprimée. Pouvez-vous le faire ? Que lui dites-vous ?
@@ -74,7 +71,6 @@ Les participants se divisent en 2 groupes. Chaque groupe analyse 2 cas, puis par
 > **Cas 2 — Signalement obligatoire**
 > Lors de l'écoute d'un enregistrement pendant l'annotation, vous entendez ce qui ressemble à un enfant frappé et un adulte proférant des menaces. Que faites-vous ? Les participants avaient-ils été informés que cela pouvait arriver ?
 
-**Groupe B**
 
 > **Cas 3 — Faible littératie et consentement véritablement éclairé**
 > Vous expliquez le formulaire de consentement à une famille. Les parents parlent un peu français mais leur langue principale est le marquisien. Ils acquiescent et signent. Êtes-vous certain qu'ils ont vraiment compris ce à quoi ils ont consenti ?
