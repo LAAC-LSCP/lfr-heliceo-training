@@ -1,8 +1,6 @@
 # Formation LFR — HéLiCéO 🎙️
-### Université de la Polynésie Française
 
 Bienvenue dans le dépôt de formation du projet **HéLiCéO** (Héritages Linguistiques, Cultures orales, Éducation en Océanie — CNRS, 2025–2029).
-
 Durant ces deux jours de formation, nous allons explorer ensemble l'ensemble du processus de collecte de données : des enregistrements sur le terrain jusqu'à l'analyse automatisée. Ce dépôt est votre compagnon de route — il contient toutes les guides et ressources pédagogiques dont vous aurez besoin **pendant la formation, sur le terrain, et après votre retour**. Gardez-le à portée de main !
 
 ---
