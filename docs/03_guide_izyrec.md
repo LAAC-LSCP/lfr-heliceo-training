@@ -1,10 +1,10 @@
-# Guide d'utilisation — Enregistreur iZYREC 🎤
+# Enregistreur iZYREC - Guide destiné aux parents 🎤
 
 Merci d'avoir accepté de participer à cette étude ! Vous êtes désormais un fier contributeur à la science participative ! Ci-dessous, vous trouverez une brève présentation des objectifs scientifiques de cette étude. Vous trouverez également les instructions à suivre avant de commencer la journée d'enregistrement. Ensuite, vous trouverez les instructions pour installer et allumer le microphone. Enfin, à la fin de ce document, vous trouverez les réponses aux questions les plus fréquemment posées par les parents !
 Vous avez des questions, des inquiétudes, ou avez besoin de plus d'informations ? N'hésitez pas à me contacter par email : [sho.tsuji@ens.psl.eu]
 
 ---
-# DESCRIPTION DES OBJECTIFS SCIENTIFIQUES
+# Objectifs Scientifiques de projet HéLiCéO 
 Notre projet étudie comment les enfants apprennent une ou plusieurs langues dans un contexte multilingue, et réussissent cet exploit dès leur plus jeune âge.
 L'une de nos questions de recherche porte sur l'effet du contexte d’apprentissage dans l'acquisition de plusieurs langues. Des analyses préliminaires sur un échantillon de 15 enfants du Vanuatu ont révélé que certaines langues sont utilisées de manière privilégiée en fonction du contexte de la discussion. 
 Pour mieux comprendre ce phénomène, nous enregistrons des données audio naturalistes auprès de jeunes enfants, afin d'étudier les pratiques familiales et scolaires qui favorisent le développement linguistique et plurilingue, notamment en Polynésie française. Une meilleure connaissance de l'environnement linguistique des enfants nous aidera à mieux comprendre comment ils apprennent le langage, et à mieux soutenir la préservation de cet héritage linguistique.
